@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Dell Plus",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Iphone Xr",
+      "price": 2800
+    },
+    {
+      "name": "Iphone 8 64gb Gold",
+      "price": "2500.00",
+      "id": 4
+    },
+    {
+      "name": "Sansung Galaxy S21 Ultra",
+      "price": "7500.00",
+      "id": 5
+    },
+    {
+      "name": "Monitor LG Full HD",
+      "price": "875.24",
+      "id": 6
+    },
+    {
+      "name": "Iphone 8 plus 64gb ",
+      "price": "2300.00",
+      "id": 7
+    }
+  ]
+}

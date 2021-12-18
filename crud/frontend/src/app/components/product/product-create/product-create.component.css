@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 12px 0px 0px;
+}
+
+.save {
+    background: #67a4db;
+}
